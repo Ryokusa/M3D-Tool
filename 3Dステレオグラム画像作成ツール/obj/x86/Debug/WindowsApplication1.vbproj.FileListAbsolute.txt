@@ -1,0 +1,12 @@
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\3Dステレオグラム作成ツール.exe
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\3Dステレオグラム作成ツール.pdb
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\3Dステレオグラム作成ツール.xml
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\3Dステレオグラム作成ツール.exe
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\3Dステレオグラム作成ツール.xml
+C:\Users\ひろゆき\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\3Dステレオグラム作成ツール.pdb
